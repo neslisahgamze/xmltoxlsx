@@ -1,0 +1,914 @@
+<?xml version="1.0"?>
+<root>
+	<list-item>
+		<name>Fender Gitar</name>
+		<description>&lt;p&gt;Gitarýn bakýmlarý yapýlmýþ durumda. Telleri yeni, sap ayarýný ge&amp;ccedil;en hafta yaptýrdým. G&amp;ouml;vdesinin arkasýnda ufak bir &amp;ccedil;izik var. 4 Telli.&lt;/p&gt;</description>
+		<category>22140</category>
+		<vat>18</vat>
+		<products>
+			<list-item>
+				<sku>FENDER-GITAR</sku>
+				<barcode></barcode>
+				<weight></weight>
+				<stock>1</stock>
+				<price>1500.00</price>
+				<images>
+					<list-item>
+						<absolute_url>https://dopigo.blob.core.windows.net/media/images/269244262_0_qUXqK6m.jpg</absolute_url>
+					</list-item>
+				</images>
+			</list-item>
+		</products>
+	</list-item>
+	<list-item>
+		<name>TEST etsy</name>
+		<description>&lt;p&gt;ets y&amp;nbsp;ets y&amp;nbsp;ets y&amp;nbsp;ets y&amp;nbsp;ets y&amp;nbsp;ets y&amp;nbsp;&lt;/p&gt;</description>
+		<category>23661</category>
+		<vat>18</vat>
+		<products>
+			<list-item>
+				<sku>TEST-ETSY</sku>
+				<barcode></barcode>
+				<weight></weight>
+				<stock>1</stock>
+				<price>959.00</price>
+				<images>
+					<list-item>
+						<absolute_url>https://dopigo.blob.core.windows.net/media/images/unnamed_id2rU2P.png</absolute_url>
+					</list-item>
+				</images>
+			</list-item>
+		</products>
+	</list-item>
+	<list-item>
+		<name>Samba Ice Man EDT 100 ml</name>
+		<description>Samba Ice Man EDT 100 ml</description>
+		<category>23608</category>
+		<vat>18</vat>
+		<products>
+			<list-item>
+				<sku>SMB-C-MN-DT-ML</sku>
+				<barcode></barcode>
+				<weight></weight>
+				<stock>88</stock>
+				<price>508.00</price>
+				<images></images>
+			</list-item>
+		</products>
+	</list-item>
+		<list-item>
+		<name>Clinique Happy For Men EDT 100 ml</name>
+		<description>Clinique Happy For Men EDT 100 ml</description>
+		<category>23608</category>
+		<vat>18</vat>
+		<products>
+			<list-item>
+				<sku>CLNQ-HPPY-FR-MN</sku>
+				<barcode></barcode>
+				<weight></weight>
+				<stock>88</stock>
+				<price>998.00</price>
+				<images></images>
+			</list-item>
+		</products>
+	</list-item>
+	<list-item>
+		<name>test</name>
+		<description>&lt;p&gt;asda sdas dasd asd asd asd&lt;/p&gt;</description>
+		<category>23066</category>
+		<vat>18</vat>
+		<products>
+			<list-item>
+				<sku>TEST</sku>
+				<barcode></barcode>
+				<weight></weight>
+				<stock>5</stock>
+				<price>1290.00</price>
+				<images>
+					<list-item>
+						<absolute_url>https://dopigo.blob.core.windows.net/media/images/272772744_0_bPL9RUs.jpg</absolute_url>
+					</list-item>
+				</images>
+			</list-item>
+		</products>
+	</list-item>
+	<list-item>
+		<name>Barýþ Manço Plak</name>
+		<description>&lt;p&gt;Super Plaklarým var hanýmmm&lt;/p&gt;</description>
+		<category>22174</category>
+		<vat>18</vat>
+		<products>
+			<list-item>
+				<sku>BARS-MANCO-PLAK-3</sku>
+				<barcode></barcode>
+				<weight></weight>
+				<stock>5</stock>
+				<price>1.00</price>
+				<images>
+					<list-item>
+						<absolute_url>https://dopigo.blob.core.windows.net/media/images/274481725_0_LMn7cdV.jpg</absolute_url>
+					</list-item>
+				</images>
+			</list-item>
+		</products>
+	</list-item>
+	<list-item>
+		<name>Clinique Happy Heart EDT 100 ml</name>
+		<description>Clinique Happy Heart EDT 100 ml</description>
+		<category>23608</category>
+		<vat>18</vat>
+		<products>
+			<list-item>
+				<sku>CLNQ-HPPY-HRT-D-2</sku>
+				<barcode></barcode>
+				<weight></weight>
+				<stock>88</stock>
+				<price>958.00</price>
+				<images></images>
+			</list-item>
+		</products>
+	</list-item>
+	<list-item>
+		<name>Samba Ice Man EDT 100 ml</name>
+		<description>Samba Ice Man EDT 100 ml</description>
+		<category>23608</category>
+		<vat>18</vat>
+		<products>
+			<list-item>
+				<sku>SMB-C-MN-DT-ML</sku>
+				<barcode></barcode>
+				<weight></weight>
+				<stock>88</stock>
+				<price>508.00</price>
+				<images></images>
+			</list-item>
+		</products>
+	</list-item>
+		<list-item>
+		<name>Samba Red Woman EDT 100 ml</name>
+		<description>Samba Red Woman EDT 100 ml</description>
+		<category>23608</category>
+		<vat>18</vat>
+		<products>
+			<list-item>
+				<sku>SMB-RD-WMN-DT-M</sku>
+				<barcode></barcode>
+				<weight></weight>
+				<stock>88</stock>
+				<price>58.00</price>
+				<images></images>
+			</list-item>
+		</products>
+	</list-item>
+	<list-item>
+		<name>Satýcý öder</name>
+		<description>&lt;p&gt;alýcý &amp;ouml;der testalýcý &amp;ouml;der testalýcý &amp;ouml;der testalýcý &amp;ouml;der testalýcý &amp;ouml;der testalýcý &amp;ouml;der test&lt;/p&gt;</description><category>21327</category>
+		<vat>18</vat>
+		<products>
+			<list-item>
+				<sku>SATC-ODER</sku>
+				<barcode></barcode>
+				<weight></weight>
+				<stock>4</stock>
+				<price>999.00</price>
+				<images>
+					<list-item>
+						<absolute_url>https://dopigo.blob.core.windows.net/media/images/272767764_0_oWWuNZU.jpg</absolute_url>
+					</list-item>
+				</images>
+			</list-item>
+		</products>
+	</list-item>
+	<list-item>
+		<name>Clinique Happy Heart EDT 50 ml</name>
+		<description>Clinique Happy Heart EDT 50 ml</description>
+		<category>23608</category>
+		<vat>18</vat>
+		<products>
+			<list-item>
+				<sku>CLNQ-HPPY-HRT-D</sku>
+				<barcode></barcode>
+				<weight></weight>
+				<stock>88</stock>
+				<price>58.00</price>
+				<images></images>
+			</list-item>
+		</products>
+	</list-item>
+	<list-item>
+		<name>Samba Super Samba Man EDT 100 ml</name>
+		<description>Samba Super Samba Man EDT 100 ml</description>
+		<category>23608</category>
+		<vat>18</vat>
+		<products>
+			<list-item>
+				<sku>SMB-SPR-SMB-MN</sku>
+				<barcode></barcode>
+				<weight></weight>
+				<stock>88</stock>
+				<price>58.00</price>
+				<images></images>
+			</list-item>
+		</products>
+	</list-item>
+	<list-item>
+		<name>Samba Viva Samba For Men EDT 100 ml</name>
+		<description>Samba Viva Samba For Men EDT 100 ml</description>
+		<category>23608</category>
+		<vat>18</vat>
+		<products>
+			<list-item>
+				<sku>SMB-VV-SMB-FR-M</sku>
+				<barcode></barcode>
+				<weight></weight>
+				<stock>88</stock>
+				<price>58.00</price>
+				<images></images>
+			</list-item>
+		</products>
+	</list-item>
+	<list-item>
+		<name>Alýcý öder ürün</name>
+		<description>&lt;p&gt;alýcý &amp;ouml;der testalýcý &amp;ouml;der testalýcý &amp;ouml;der testalýcý &amp;ouml;der testalýcý &amp;ouml;der testalýcý &amp;ouml;der testalýcý &amp;ouml;der testalýcý &amp;ouml;der test&lt;/p&gt;</description>
+		<category>20651</category>
+		<vat>18</vat>
+		<products>
+			<list-item>
+				<sku>ALC-ODER-URUN</sku>
+				<barcode></barcode>
+				<weight></weight>
+				<stock>15</stock>
+				<price>361.50</price>
+				<images>
+					<list-item>
+						<absolute_url>https://dopigo.blob.core.windows.net/media/images/272767572_0_PaOOibz.jpg</absolute_url>
+					</list-item>
+				</images>
+			</list-item>
+		</products>
+	</list-item>
+	<list-item>
+		<name>Samba True Blue Homme EDT 100 ml</name>
+		<description>Samba True Blue Homme EDT 100 ml</description>
+		<category>23608</category>
+		<vat>18</vat>
+		<products>
+			<list-item>
+				<sku>SMB-TR-BL-HMM-D</sku>
+				<barcode></barcode>
+				<weight></weight>
+				<stock>88</stock>
+				<price>58.00</price>
+				<images></images>
+			</list-item>
+		</products>
+	</list-item>
+	<list-item>
+		<name>Samba Natural Man EDT 100 ml</name>
+		<description>Samba Natural Man EDT 100 ml</description>
+		<category>23608</category>
+		<vat>18</vat>
+		<products>
+			<list-item>
+				<sku>SMB-NTRL-MN-DT</sku>
+				<barcode></barcode>
+				<weight></weight>
+				<stock>37</stock>
+				<price>58.00</price>
+				<images></images>
+			</list-item>
+		</products>
+	</list-item>
+	<list-item>
+		<name>Clinique Aromatics Elixir EDT 45 ml</name>
+		<description>Clinique Aromatics Elixir EDT 45 ml</description>
+		<category>23608</category>
+		<vat>18</vat>
+		<products>
+			<list-item>
+				<sku>CLNQ-RMTCS-LXR-2</sku>
+				<barcode></barcode>
+				<weight></weight>
+				<stock>88</stock>
+				<price>58.00</price>
+				<images></images>
+			</list-item>
+		</products>
+	</list-item>
+	<list-item>
+		<name>Clinique Happy Parfüm EDT 50 ml</name>
+		<description>Clinique Happy Parfüm EDT 50 ml</description>
+		<category>23608</category>
+		<vat>18</vat>
+		<products>
+			<list-item>
+				<sku>CLNQ-HPPY-PRFM</sku>
+				<barcode></barcode>
+				<weight></weight>
+				<stock>88</stock>
+				<price>58.00</price>
+				<images></images>
+			</list-item>
+		</products>
+	</list-item>
+	<list-item>
+		<name>DENEME ÜRÜN</name>
+		<description>&lt;p&gt;&lt;img src="http://jetucuzal.com/res/free.jpg" /&gt;&lt;/p&gt;</description>
+		<category>20966</category>
+		<vat>18</vat>
+		<products>
+			<list-item>
+				<sku>DENEME-URUN</sku>
+				<barcode></barcode>
+				<weight></weight>
+				<stock>15</stock>
+				<price>15.00</price>
+				<images>
+					<list-item>
+						<absolute_url>https://dopigo.blob.core.windows.net/media/images/271208613_0_Qzvyi6h.jpg</absolute_url>
+					</list-item>
+				</images>
+			</list-item>
+		</products>
+	</list-item>
+	<list-item>
+		<name>Clinique Aromatics Elixir Perfume Spray 45 ml</name>
+		<description>Clinique Aromatics Elixir Perfume Spray 45 ml</description>
+		<category>23608</category>
+		<vat>18</vat>
+		<products>
+			<list-item>
+				<sku>CLNQ-RMTCS-LXR</sku>
+				<barcode></barcode>
+				<weight></weight>
+				<stock>88</stock>
+				<price>58.00</price>
+				<images></images>
+			</list-item>
+		</products>
+	</list-item>
+	<list-item>
+		<name>Hoba deneöe</name>
+		<description>&lt;p&gt;from datetime import timedelta&amp;nbsp;from datetime import timedelta&lt;/p&gt;</description>
+		<category>20966</category>
+		<vat>18</vat>
+		<products>
+			<list-item>
+				<sku>HOBA-DENEOE</sku>
+				<barcode></barcode>
+				<weight></weight>
+				<stock>2</stock>
+				<price>1.00</price>
+				<images>
+					<list-item>
+						<absolute_url>https://dopigo.blob.core.windows.net/media/images/00377555_PxjfCnH_VWHEREj.jpg</absolute_url>
+					</list-item>
+				</images>
+			</list-item>
+		</products>
+	</list-item>
+	<list-item>
+		<name>Test Ürünü</name>
+		<description>&lt;p&gt;999 &amp;uuml;r&amp;uuml;n &amp;uuml;r&amp;uuml;n999 &amp;uuml;r&amp;uuml;n &amp;uuml;r&amp;uuml;n999 &amp;uuml;r&amp;uuml;n &amp;uuml;r&amp;uuml;n&lt;/p&gt;</description>
+		<category>24358</category>
+		<vat>18</vat>
+		<products>
+			<list-item>
+				<sku>TEST-URUNU-3</sku>
+				<barcode></barcode>
+				<weight></weight>
+				<stock>4</stock>
+				<price>9899.00</price>
+				<images>
+					<list-item>
+						<absolute_url>https://dopigo.blob.core.windows.net/media/images/00377555_PxjfCnH_tatlouf.jpg</absolute_url>
+					</list-item>
+				</images>
+			</list-item>
+		</products>
+	</list-item>
+	<list-item>
+		<name>Test Ürünü</name>
+		<description>&lt;p&gt;fotoðraf testi &amp;nbsp;fotoðraf testi&amp;nbsp;&lt;/p&gt;</description><category>22905</category>
+		<vat>18</vat>
+		<products>
+			<list-item>
+				<sku>TEST-URUNU-2</sku>
+				<barcode></barcode>
+				<weight></weight>
+				<stock>2</stock>
+				<price>909.00</price>
+				<images>
+					<list-item>
+						<absolute_url>https://dopigo.blob.core.windows.net/media/images/20170329_153036_kopya_lhqSpW6.jpg</absolute_url>
+					</list-item>
+					<list-item>
+						<absolute_url>https://dopigo.blob.core.windows.net/media/images/20170329_153053_kopya_FEiM0YK.jpg</absolute_url>
+					</list-item>
+				</images>
+			</list-item>
+		</products>
+	</list-item>
+	<list-item>
+		<name>Fotoðraf testi</name>
+		<description>&lt;p&gt;fotoðraf testi&amp;nbsp;fotoðraf testi&amp;nbsp;fotoðraf testi&amp;nbsp;fotoðraf testi&amp;nbsp;&lt;/p&gt;</description>
+		<category>23067</category>
+		<vat>18</vat>
+		<products>
+			<list-item>
+				<sku>FOTOGRAF-TESTI-3</sku>
+				<barcode></barcode>
+				<weight></weight>
+				<stock>5</stock>
+				<price>912.00</price>
+				<images>
+					<list-item>
+						<absolute_url>https://dopigo.blob.core.windows.net/media/images/20170329_153036_kopya_aQyHXKh.jpg</absolute_url>
+					</list-item>
+					<list-item>
+						<absolute_url>https://dopigo.blob.core.windows.net/media/images/20170329_153053_kopya_hQ3OCSu.jpg</absolute_url>
+					</list-item>
+				</images>
+			</list-item>
+		</products>
+	</list-item>
+	<list-item>
+		<name>Test Ürünü</name>
+		<description>&lt;p&gt;test testasd asd asd&amp;nbsp;&lt;/p&gt;</description>
+		<category>21370</category>
+		<vat>18</vat>
+		<products>
+			<list-item>
+				<sku>TEST-URUNU</sku>
+				<barcode></barcode>
+				<weight></weight>
+				<stock>6</stock>
+				<price>100.00</price>
+				<images>
+					<list-item>
+						<absolute_url>https://dopigo.blob.core.windows.net/media/images/dopigo_logo.png</absolute_url>
+					</list-item>
+				</images>
+			</list-item>
+		</products>
+	</list-item>
+	<list-item>
+		<name>Barýþ Manço Plak</name>
+		<description>&lt;p&gt;Super Plaklarým var hanýmmm&lt;/p&gt;</description>
+		<category>22174</category>
+		<vat>18</vat>
+		<products>
+			<list-item>
+				<sku>BARS-MANCO-PLAK-2</sku>
+				<barcode></barcode>
+				<weight></weight>
+				<stock>2</stock>
+				<price>1.00</price>
+				<images>
+					<list-item>
+						<absolute_url>https://dopigo.blob.core.windows.net/media/images/270071836_0_T9FWdy6.jpg</absolute_url>
+					</list-item>
+				</images>
+			</list-item>
+		</products>
+	</list-item>
+	<list-item>
+		<name>Fotoðraf test</name>
+		<description>&lt;p&gt;asd asd asd asd asd&amp;nbsp;&lt;/p&gt;</description>
+		<category>21531</category>
+		<vat>18</vat>
+		<products>
+			<list-item>
+				<sku>FOTOGRAF-TEST</sku>
+				<barcode></barcode>
+				<weight></weight>
+				<stock>40</stock>
+				<price>99999.00</price>
+				<images>
+					<list-item>
+						<absolute_url>https://dopigo.blob.core.windows.net/media/images/267908143_0_f0qnawr.jpg</absolute_url>
+					</list-item>
+				</images>
+			</list-item>
+		</products>
+	</list-item>
+	<list-item>
+		<name>Fender Gitar</name>
+		<description>&lt;p&gt;Gitarýn bakýmlarý yapýlmýþ durumda. Telleri yeni, sap ayarýný ge&amp;ccedil;en hafta yaptýrdým. G&amp;ouml;vdesinin arkasýnda ufak bir &amp;ccedil;izik var. 4 Telli.&lt;/p&gt;</description>
+		<category>22140</category>
+		<vat>18</vat>
+		<products>
+			<list-item>
+				<sku>FENDER-GITAR</sku>
+				<barcode></barcode>
+				<weight></weight>
+				<stock>1</stock>
+				<price>1500.00</price>
+				<images>
+					<list-item>
+						<absolute_url>https://dopigo.blob.core.windows.net/media/images/269244262_0_qUXqK6m.jpg</absolute_url>
+					</list-item>
+				</images>
+			</list-item>
+		</products>
+	</list-item>
+	<list-item>
+		<name>Altýn Bilezik</name>
+		<description>&lt;p&gt;Bilezik.. Altýn....&lt;/p&gt;</description>
+		<category>20738</category>
+		<vat>18</vat>
+		<products>
+			<list-item>
+				<sku>ALTN-BILEZIK</sku>
+				<barcode></barcode>
+				<weight></weight>
+				<stock>7</stock>
+				<price>1.00</price>
+				<images></images>
+			</list-item>
+		</products>
+	</list-item>
+	<list-item>
+		<name>Dolma Kalem</name>
+		<description>&lt;p&gt;S&amp;uuml;per bir&amp;nbsp;kalem ger&amp;ccedil;ektende...&lt;/p&gt;</description>
+		<category>23717</category>
+		<vat>18</vat>
+		<products>
+			<list-item>
+				<sku>DOLMA-KALEM-2</sku>
+				<barcode></barcode>
+				<weight></weight>
+				<stock>10</stock>
+				<price>1.00</price>
+				<images></images>
+			</list-item>
+		</products>
+	</list-item>
+	<list-item>
+		<name>Fotoðraf Testi 5</name>
+		<description>&lt;body&gt;&lt;p&gt;asdf asdf asdf asdf sdf  asd asd&lt;/p&gt;&lt;/body&gt;</description><category>20651</category>
+		<vat>18</vat>
+		<products>
+			<list-item>
+				<sku>FOTOGRAF-5</sku>
+				<barcode></barcode>
+				<weight></weight>
+				<stock>12</stock>
+				<price>123.00</price>
+				<images>
+					<list-item>
+						<absolute_url>https://dopigo.blob.core.windows.net/media/images/267902443_0_wdj2omp.jpg</absolute_url>
+					</list-item>
+				</images>
+			</list-item>
+		</products>
+	</list-item>
+	<list-item>
+		<name>Üçlü Tavan Aydýnltmasý</name>
+		<description>&lt;body&gt;&lt;p&gt;Üçlü Þýk Tavana Aydýnlatmasý&lt;/p&gt;&lt;/body&gt;</description><category>21420</category>
+		<vat>18</vat>
+		<products>
+			<list-item>
+				<sku>UCLU-AYDNLTMS</sku>
+				<barcode></barcode>
+				<weight></weight>
+				<stock>9</stock>
+				<price>4000.00</price>
+				<images>
+					<list-item>
+						<absolute_url>https://dopigo.blob.core.windows.net/media/images/267183184_0_CqN3ris.jpg</absolute_url>
+					</list-item>
+				</images>
+			</list-item>
+		</products>
+	</list-item>
+	<list-item>
+		<name>Klasik Erkek Gömleði</name>
+		<description>&lt;p&gt;Detay i&amp;ccedil;eren bilgiler girelim.&amp;nbsp;&lt;/p&gt;</description><category>21973</category>
+		<vat>18</vat>
+		<products>
+			<list-item>
+				<sku>KLASIK-GMLG</sku>
+				<barcode></barcode>
+				<weight></weight>
+				<stock>9</stock>
+				<price>49.00</price>
+				<images></images>
+			</list-item>
+		</products>
+	</list-item>
+	<list-item>
+		<name>Fotoðraf Testi</name>
+		<description>&lt;p&gt;asdf asdf asdf asdf sdf&amp;nbsp;&lt;/p&gt;</description>
+		<category>20651</category>
+		<vat>18</vat>
+		<products>
+			<list-item>
+				<sku>FOTOGRAF-TESTI</sku>
+				<barcode></barcode>
+				<weight></weight>
+				<stock>12</stock>
+				<price>123.00</price>
+				<images></images>
+			</list-item>
+		</products>
+	</list-item>
+	<list-item>
+		<name>Osram Ampul</name>
+		<description>&lt;p&gt;Osram tasarruflu ampul hem &amp;ccedil;ok aydýnlatýr hem de az enerji harcar.&lt;/p&gt;</description>
+		<category>21415</category>
+		<vat>18</vat>
+		<products>
+			<list-item>
+				<sku>OSRAM-AMPUL</sku>
+				<barcode></barcode>
+				<weight></weight>
+				<stock>20</stock>
+				<price>5.00</price>
+				<images></images>
+			</list-item>
+		</products>
+	</list-item>
+		<list-item>
+		<name>Fotoðraf Deneme</name>
+		<description>&lt;p&gt;asd fasdf asdf asdfa sfasd f&lt;/p&gt;</description>
+		<category>23278</category>
+		<vat>18</vat>
+		<products>
+			<list-item>
+				<sku>FOTOGRAF-DENEME</sku>
+				<barcode></barcode>
+				<weight></weight>
+				<stock>23</stock>
+				<price>123.00</price>
+				<images>
+					<list-item>
+						<absolute_url>https://dopigo.blob.core.windows.net/media/images/267907486_0_rdlnupq.jpg</absolute_url>
+					</list-item>
+				</images>
+			</list-item>
+		</products>
+	</list-item>
+	<list-item>
+		<name>Dolma Kalem</name>
+		<description>&lt;body&gt;&lt;p&gt;Beyaz Mor Þýk Dolma Kalem&lt;/p&gt;&lt;/body&gt;</description><category>23717</category>
+		<vat>18</vat>
+		<products>
+			<list-item>
+				<sku>DOLMA-KALEM</sku>
+				<barcode></barcode>
+				<weight></weight>
+				<stock>10</stock>
+				<price>1.00</price>
+				<images>
+					<list-item>
+						<absolute_url>https://dopigo.blob.core.windows.net/media/images/267820034_0_GOM3sVQ.jpg</absolute_url>
+					</list-item>
+				</images>
+			</list-item>
+		</products>
+	</list-item>
+	<list-item>
+		<name>Kaliteli Raf Kütüphane</name>
+		<description>&lt;body&gt;&lt;p&gt;Akçaaðaç masif kaliteli kütüphane&lt;/p&gt; &lt;/body&gt;</description>
+		<category></category>
+		<vat>18</vat>
+		<products>
+			<list-item>
+				<sku>KALITELI-KTPHN</sku>
+				<barcode></barcode>
+				<weight></weight>
+				<stock>10</stock>
+				<price>6000.00</price>
+				<images>
+					<list-item>
+						<absolute_url>https://dopigo.blob.core.windows.net/media/images/267185696_0_jWRdoNV.jpg</absolute_url>
+					</list-item>
+				</images>
+			</list-item>
+		</products>
+	</list-item>
+	<list-item>
+		<name>Autolink ürünü</name>
+		<description>&lt;p&gt;sdf asdf sdf asf sdf&lt;/p&gt;</description>
+		<category>23054</category>
+		<vat>18</vat>
+		<products>
+			<list-item>
+				<sku>AUTOLINK-URUNU</sku>
+				<barcode></barcode>
+				<weight></weight>
+				<stock>15</stock>
+				<price>1.00</price>
+				<images>
+					<list-item>
+						<absolute_url>https://dopigo.blob.core.windows.net/media/images/cantini.jpg</absolute_url>
+					</list-item>
+				</images>
+			</list-item>
+		</products>
+	</list-item>
+	<list-item>
+		<name>Autolink ürünü</name>
+		<description>&lt;p&gt;sdf asdf sdf asf sdf&lt;/p&gt;</description>
+		<category>23054</category>
+		<vat>18</vat>
+		<products>
+			<list-item>
+				<sku>AUTOLINK-URUNU-3</sku>
+				<barcode></barcode>
+				<weight></weight>
+				<stock>15</stock>
+				<price>1.00</price>
+				<images>
+					<list-item>
+						<absolute_url>https://dopigo.blob.core.windows.net/media/images/guguk_GCMcWam.jpg</absolute_url>
+					</list-item>
+				</images>
+			</list-item>
+		</products>
+	</list-item>
+	<list-item>
+		<name>Neva Jenga Ahþap Denge Oyunu 0805</name>
+		<description>&lt;p&gt; &lt;strong&gt;Ýþte d&amp;uuml;nyanýn en sevilen denge oyunu!&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;strong&gt;Jenga’da ama&amp;ccedil; tahta bloklarý &amp;ccedil;ekerek kulenin &amp;uuml;st&amp;uuml;ne&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;strong&gt;koymak, tabii kuleyi devirmeden! Þamatalý, bol kahkahalý,&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;strong&gt;oynamasý da son derece kolay.&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;strong&gt;Oyuncu Sayýsý : &amp;nbsp;1 veya daha fazla&lt;/strong&gt;&lt;/p&gt;</description>
+		<category>23965</category>
+		<vat>18</vat>
+		<products>
+			<list-item>
+				<sku>NV-JNG-HSP-DNG-4</sku>
+				<barcode></barcode>
+				<weight></weight>
+				<stock>10</stock>
+				<price>22.00</price>
+				<images>
+					<list-item>
+						<absolute_url>https://dopigo.blob.core.windows.net/media/images/72110118.jpg</absolute_url>
+					</list-item>
+					<list-item>
+						<absolute_url>https://dopigo.blob.core.windows.net/media/images/39367905.jpg</absolute_url>
+					</list-item>
+				</images>
+			</list-item>
+		</products>
+	</list-item>
+	<list-item>
+		<name>Kargolama Test Ürünü</name>
+		<description>&lt;p&gt;kargolama test &amp;uuml;r&amp;uuml;n&amp;uuml;&amp;nbsp;kargolama test &amp;uuml;r&amp;uuml;n&amp;uuml;&amp;nbsp;kargolama test &amp;uuml;r&amp;uuml;n&amp;uuml;&amp;nbsp;kargolama test &amp;uuml;r&amp;uuml;n&amp;uuml;&amp;nbsp;kargolama test &amp;uuml;r&amp;uuml;n&amp;uuml;&amp;nbsp;&lt;/p&gt;</description>
+		<category>22905</category>
+		<vat>18</vat>
+		<products>
+			<list-item>
+				<sku>KARGOLAMA-URN</sku>
+				<barcode></barcode>
+				<weight></weight>
+				<stock>12</stock>
+				<price>1.00</price>
+				<images></images>
+			</list-item>
+		</products>
+	</list-item>
+		<list-item>
+		<name>Kutulu Aksesuarlý Taçlý Prenses Bebek</name>
+		<description>&lt;p style="text-align:center"&gt;Kutulu Aksesuarlý Ta&amp;ccedil;lý Prenses Bebek&lt;/p&gt;</description>
+		<category>23955</category>
+		<vat>18</vat>
+		<products>
+			<list-item>
+				<sku>KTL-KSSRL-TCL-P</sku>
+				<barcode>8694359029335</barcode>
+				<weight></weight>
+				<stock>10</stock>
+				<price>55.00</price>
+				<images>
+					<list-item>
+						<absolute_url>https://dopigo.blob.core.windows.net/media/images/vardem-kutulu-15-inc-aksesuarli-tacli-prenses-bebek-mavi-elbiseli_2.jpg</absolute_url></list-item>
+				</images>
+			</list-item>
+		</products>
+	</list-item>
+	<list-item>
+		<name>Kutulu Aksesuarlý Taçlý Prenses Bebek</name>
+		<description>&lt;p style="text-align: center;"&gt;Kutulu Aksesuarlý Ta&amp;ccedil;lý Prenses Bebek&lt;/p&gt;</description>
+		<category>23955</category>
+		<vat>18</vat>
+		<products>
+			<list-item>
+				<sku>KTL-KSSRL-TCL-P-2</sku>
+				<barcode>8694359029335</barcode>
+				<weight></weight>
+				<stock>10</stock>
+				<price>55.00</price>
+				<images>
+					<list-item>
+						<absolute_url>https://dopigo.blob.core.windows.net/media/images/WG-91064-1.JPG</absolute_url>
+					</list-item>
+				</images>
+			</list-item>
+		</products>
+	</list-item>
+	<list-item>
+		<name>AHÞAP GEZDÝRME OYUNU 9545</name>
+		<description>&lt;p style="text-align:center"&gt;&lt;strong&gt;Child Wood Ahþap Gezdirme Oyunu&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;Eðitici ve Eðlenceli&lt;br /&gt;&lt;br /&gt;&amp;Ccedil;ocuklarýn;&amp;nbsp;&lt;br /&gt;Koordinasyon - D&amp;uuml;þ&amp;uuml;nme - G&amp;ouml;rme&lt;br /&gt;yeteneklerini&amp;nbsp;geliþtirir.&lt;br /&gt;G&amp;ouml;rsel ve el-pratiklik becerilerini artýrýr.&amp;nbsp;&lt;br /&gt;&amp;nbsp;&lt;br /&gt;Tamamen saðlýða uygun malzemeden yapýlmýþtýr.&lt;br /&gt;&lt;br /&gt;Yaþ: 18+ Ay&lt;br /&gt;&lt;br /&gt;Barkodu: 8698568879545&lt;br /&gt;Item No: 2522-TT948&lt;br /&gt;Kutu &amp;Ouml;l&amp;ccedil;&amp;uuml;leri: 18,5 x 17,5 x 12,5 cm&lt;/p&gt;</description>
+		<category>23965</category>
+		<vat>18</vat>
+		<products>
+			<list-item>
+				<sku>AHSP-GZDRM-YN-9</sku>
+				<barcode>8698568879545</barcode>
+				<weight></weight>
+				<stock>10</stock>
+				<price>35.00</price>
+				<images>
+					<list-item>
+						<absolute_url>https://dopigo.blob.core.windows.net/media/images/1089child-wood-ahsap-gezdirme-oyunu_74ec5d3168f06e49422d2c789fb759ae_1.jpg</absolute_url>
+					</list-item>
+					<list-item>
+						<absolute_url>https://dopigo.blob.core.windows.net/media/images/child-wood-ahc59fap-gezd_1141_2.jpg</absolute_url>
+					</list-item>
+				</images>
+			</list-item>
+		</products>
+	</list-item>
+	<list-item>
+		<name>Kutulu ýþýklý Deniz Kýzý</name>
+		<description>&lt;p style="text-align:center"&gt;Kutulu ýþýklý Deniz Kýzý&lt;/p&gt;</description><category>23955</category>
+		<vat>18</vat>
+		<products>
+			<list-item>
+				<sku>KTL-SKL-DNZ-KZ</sku>
+				<barcode>6920140928054</barcode>
+				<weight></weight>
+				<stock>10</stock>
+				<price>45.00</price>
+				<images>
+					<list-item>
+						<absolute_url>https://dopigo.blob.core.windows.net/media/images/erkol_1992-ly-ku-26055_1.jpg</absolute_url>
+					</list-item>
+				</images>
+			</list-item>
+		</products>
+	</list-item>
+	<list-item>
+		<name>Neva Jenga Ahþap Denge Oyunu 0805</name><description>&lt;p&gt;&lt;strong&gt;Ýþte d&amp;uuml;nyanýn en sevilen denge oyunu!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Jenga&amp;rsquo;da
+		ama&amp;ccedil; tahta bloklarý &amp;ccedil;ekerek kulenin &amp;uuml;st&amp;uuml;ne&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;koymak, tabii kuleyi devirmeden! Þamatalý, bol kahkahalý,&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;oynamasý da son derece kolay.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Oyuncu Sayýsý : &amp;nbsp;1 veya daha fazla&lt;/strong&gt;&lt;/p&gt;</description>
+		<category>23965</category>
+		<vat>18</vat>
+		<products>
+			<list-item>
+				<sku>NV-JNG-HSP-DNG</sku>
+				<barcode>8699443680805</barcode>
+				<weight></weight>
+				<stock>10</stock>
+				<price>22.00</price>
+				<images>
+					<list-item>
+						<absolute_url>https://dopigo.blob.core.windows.net/media/images/016.002.jpg</absolute_url>
+					</list-item>
+					<list-item>
+						<absolute_url>https://dopigo.blob.core.windows.net/media/images/163_nevka-deng-1812_2.jpg</absolute_url>
+					</list-item>
+				</images>
+			</list-item>
+		</products>
+	</list-item>
+		<list-item>
+		<name>TEST etsy</name>
+		<description>&lt;p&gt;ets y&amp;nbsp;ets y&amp;nbsp;ets y&amp;nbsp;ets y&amp;nbsp;ets y&amp;nbsp;ets y&amp;nbsp;&lt;/p&gt;</description>
+		<category>23661</category>
+		<vat>18</vat>
+		<products>
+			<list-item>
+				<sku>TEST-ETSY</sku>
+				<barcode></barcode>
+				<weight></weight>
+				<stock>1</stock>
+				<price>959.00</price>
+				<images>
+					<list-item>
+						<absolute_url>https://dopigo.blob.core.windows.net/media/images/unnamed_id2rU2P.png</absolute_url>
+					</list-item>
+				</images>
+			</list-item>
+		</products>
+	</list-item>
+	<list-item>
+		<name>Mini Pilli Çamaþýr Makinesi Sesli Iþýklý 8307-1435</name>
+		<description>&lt;p&gt;ets y&amp;nbsp;ets y&amp;nbsp;ets y&amp;nbsp;ets y&amp;nbsp;ets y&amp;nbsp;ets y&amp;nbsp;&lt;/p&gt;</description>
+		<category>23919</category>
+		<vat>18</vat>
+		<products>
+			<list-item>
+				<sku>MN-PLL-CMSR-MKN</sku>
+				<barcode>1111111111</barcode>
+				<weight>1.00</weight>
+				<stock>10</stock>
+				<price>24.90</price>
+				<images>
+					<list-item>
+						<absolute_url>https://dopigo.blob.core.windows.net/media/images/250298649_tn120_0.jpg</absolute_url>
+					</list-item>
+				</images>
+			</list-item>
+		</products>
+	</list-item>
+</root>
